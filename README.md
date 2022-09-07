@@ -12,13 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## the External sites
-<a href="https://codepen.io/hwahyeon"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white"/></a>
+## `the External sites`
+<a href="https://codepen.io/hwahyeon"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white"/></a> 
 <a href="https://www.codewars.com/users/hwahyeon"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white"/></a>
 
-## Languages & Tools
+## `Languages & Tools`
+### Front-end
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/wxMaxima-96b7c3?style=flat-square&logo=Matrix&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/> <img src="https://img.shields.io/badge/AutoLISP-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/>
+
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
+
+
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwahyeon&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
