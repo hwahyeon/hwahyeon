@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 
 
 
-## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwahyeon&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
