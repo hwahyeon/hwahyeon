@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://codepen.io/hwahyeon"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white"/></a> 
 <a href="https://www.codewars.com/users/hwahyeon"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white"/></a>
 
-Kaggle https://www.kaggle.com/janghyeon2
+Kaggle 
 
 ### Languages & Tools
 ### Front-end
