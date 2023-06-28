@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <a href="https://codepen.io/hwahyeon"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white"/></a> 
 <a href="https://www.codewars.com/users/hwahyeon"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white"/></a>
 
-Kaggle 
-
 ### Languages & Tools
 ### Front-end
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/>
