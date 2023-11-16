@@ -1,3 +1,14 @@
+### Stacks
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+
+
+
+
+
+
+
 <!--
 **hwahyeon/hwahyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +29,8 @@ Here are some ideas to get you started:
 
 ### Languages & Tools
 ### Front-end
+
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
 -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
 
