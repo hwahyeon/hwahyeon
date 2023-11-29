@@ -19,6 +19,8 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
+### etc
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/hwahyeon)
 
 **hwahyeon/hwahyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,10 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### the External sites
 <a href="https://codepen.io/hwahyeon"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white"/></a> 
-<a href="https://www.codewars.com/users/hwahyeon"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white"/></a>
-
 -->
 
 
