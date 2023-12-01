@@ -12,6 +12,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 
+
 <!--
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=R&logoColor=white)
@@ -20,6 +21,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ### etc
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/hwahyeon)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/hwahyeon)
 
 **hwahyeon/hwahyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,8 +36,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<a href="https://codepen.io/hwahyeon"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=CodePen&logoColor=white"/></a> 
 -->
 
 
