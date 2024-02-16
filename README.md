@@ -17,6 +17,7 @@
 <!--[![Codewars](https://img.shields.io/badge/My_Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/hwahyeon)-->
 
 <!--
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hwahyeon&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
 ### Technical Skills
 
 #### Programming Languages
