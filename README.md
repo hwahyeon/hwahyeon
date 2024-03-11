@@ -6,6 +6,9 @@
 - **VCS:** GitHub, Bitbucket
 - **Other:** Machine Learning, TensorFlow
 
+
+
+
 ### Languages
 **한국어** (Native), **English** (Fluent), **Ελληνικά** (Basic)
 
@@ -14,7 +17,10 @@
 [![npm](https://img.shields.io/badge/My_npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~hwahyeon)
 [![CodePen](https://img.shields.io/badge/My_CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/hwahyeon)
 [![Medium](https://img.shields.io/badge/My_Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@hwahyeon.dev)
-<!--[![Codewars](https://img.shields.io/badge/My_Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/hwahyeon)-->
+<!--
+[![My Skills](https://skillicons.dev/icons?i=netlify,vercel,firebase,gatsby,postman&perline=7)](https://skillicons.dev)
+
+[![Codewars](https://img.shields.io/badge/My_Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/hwahyeon)-->
 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hwahyeon&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
