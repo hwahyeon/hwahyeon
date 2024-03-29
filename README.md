@@ -9,7 +9,7 @@
 
 
 ### Languages
-**한국어** (Native), **English** (Fluent), **Ελληνικά** (Basic)
+**한국어** (Native), **English** (Fluent), **Deutsch** (Basic), **Ελληνικά** (Basic)
 
 ### Sites
 **Click the icons below to redirect* <br>
