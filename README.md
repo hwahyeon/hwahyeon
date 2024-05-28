@@ -20,7 +20,9 @@
 
 
 <!--
-
+[![My Skills](https://skillicons.dev/icons?i=npm&perline=7)](https://www.npmjs.com/~hwahyeon)
+[![My Skills](https://skillicons.dev/icons?i=codepen&perline=7)](https://codepen.io/hwahyeon)
+[![My Skills](https://skillicons.dev/icons?i=npm&perline=7)](https://skillicons.dev)
 
 **Programming Languages:**
 
