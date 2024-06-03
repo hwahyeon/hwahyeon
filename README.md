@@ -14,15 +14,14 @@
 ### Sites
 **Click the icons below to redirect* <br>
 [![npm](https://img.shields.io/badge/My_npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~hwahyeon)
+[![Blog](https://img.shields.io/badge/My_blog-000000?style=flat-square&logo=next.js&logoColor=white)](https://hwahyeon-blog.vercel.app/)
 [![CodePen](https://img.shields.io/badge/My_CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/hwahyeon)
 
 
 <!--
-[![Blog](https://img.shields.io/badge/My_blog-000000?style=flat-square&logo=github&logoColor=white)]()
-
-[![My npm](https://skillicons.dev/icons?i=npm&perline=7)](https://www.npmjs.com/~hwahyeon)
-[![My CodePen](https://skillicons.dev/icons?i=codepen&perline=7)](https://codepen.io/hwahyeon)
-[![My Blog](https://skillicons.dev/icons?i=github&perline=7)](https://skillicons.dev)
+[![My npm](https://skillicons.dev/icons?i=#npm&perline=7)](https://www.npmjs.com/~hwahyeon)
+[![My CodePen](https://skillicons.dev/icons?i=#codepen&perline=7)](https://codepen.io/hwahyeon)
+[![My Blog](https://skillicons.dev/icons?i=nextjs&perline=7)](https://hwahyeon-blog.vercel.app/)
 
 **Programming Languages:**
 
