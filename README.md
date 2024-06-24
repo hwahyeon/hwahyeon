@@ -11,14 +11,16 @@
 ### Languages
 **한국어** (Native), **English** (Fluent), **Deutsch** (Basic), **Ελληνικά** (Basic)
 
-### Sites
-**Click the icons below to redirect* <br>
-[![npm](https://img.shields.io/badge/My_npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~hwahyeon)
-[![Blog](https://img.shields.io/badge/My_blog-000000?style=flat-square&logo=next.js&logoColor=white)](https://hwahyeon-blog.vercel.app/)
-[![CodePen](https://img.shields.io/badge/My_CodePen-000000?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/hwahyeon)
-
+### Site
+[My Blog](https://hwahyeon-blog.vercel.app/)
 
 <!--
+- **Backend Stack:** NodeJS
+ MongoDB
+ 
+### Sites
+[![Blog](https://img.shields.io/badge/My_blog-000000?style=flat-square&logo=next.js&logoColor=white)](https://hwahyeon-blog.vercel.app/)
+
 [![My npm](https://skillicons.dev/icons?i=#npm&perline=7)](https://www.npmjs.com/~hwahyeon)
 [![My CodePen](https://skillicons.dev/icons?i=#codepen&perline=7)](https://codepen.io/hwahyeon)
 [![My Blog](https://skillicons.dev/icons?i=nextjs&perline=7)](https://hwahyeon-blog.vercel.app/)
