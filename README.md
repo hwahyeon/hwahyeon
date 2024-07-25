@@ -1,7 +1,7 @@
 ## Frontend Web Developer
 ### Technical Skills
 - **Programming Languages:** JavaScript, TypeScript, Python, R
-- **Frontend Stack:** React, NextJS, SCSS, Recoil
+- **Frontend Stack:** React, NextJS, SCSS, Tailwind CSS, Recoil
 - **Databases:** MySQL
 - **VCS:** GitHub, Bitbucket
 - **Other:** Machine Learning, TensorFlow
@@ -15,8 +15,9 @@
 [My Blog](https://hwahyeon-blog.vercel.app/)
 
 <!--
-- **Backend Stack:** NodeJS
+- **Backend Stack:** NodeJS, Express
  MongoDB
+**CI/CD:** GitHub Actions
  
 ### Sites
 [![Blog](https://img.shields.io/badge/My_blog-000000?style=flat-square&logo=next.js&logoColor=white)](https://hwahyeon-blog.vercel.app/)
