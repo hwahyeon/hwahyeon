@@ -1,4 +1,7 @@
-## Frontend Web Developer
+## Web Developer
+
+### [My Blog](https://hwahyeon-blog.vercel.app/)
+
 ### Technical Skills
 - **Programming Languages:** JavaScript, TypeScript, Python, R
 - **Frontend Stack:** React, NextJS, SCSS, Tailwind CSS, Recoil
@@ -6,13 +9,8 @@
 - **VCS:** GitHub, Bitbucket
 - **Other:** Machine Learning, TensorFlow
 
-
-
 ### Languages
 **한국어** (Native), **English** (Fluent), **Deutsch** (Basic), **Ελληνικά** (Basic)
-
-### Site
-[My Blog](https://hwahyeon-blog.vercel.app/)
 
 <!--
 - **Backend Stack:** NodeJS, Express
@@ -49,8 +47,6 @@
 **Deploy**
 
 [![My Skills](https://skillicons.dev/icons?i=babel,figma,firebase,gatsby,graphql,gulp,nestjs,netlify,nodejs,npm,postman,redux,vercel,vite,webpack,windicss,ai&perline=7)](https://skillicons.dev)
-
-
 
 [![Codewars](https://img.shields.io/badge/My_Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/hwahyeon)
 
