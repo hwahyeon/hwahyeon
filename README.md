@@ -4,7 +4,7 @@
 
 ### Technical Skills
 - **Programming Languages:** JavaScript, TypeScript, Python, R
-- **Frontend Stack:** React, NextJS, SCSS, Tailwind CSS, Recoil
+- **Frontend Stack:** React, NextJS
 - **Databases:** MySQL
 - **VCS:** GitHub, Bitbucket
 - **Other:** Machine Learning, TensorFlow
