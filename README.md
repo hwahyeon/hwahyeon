@@ -3,10 +3,11 @@
 ### [My Blog](https://hwahyeon-blog.vercel.app/)
 
 ### Technical Skills
-- **Programming Languages:** JavaScript, TypeScript, Python, R
-- **Frontend Stack:** React, NextJS
+- **Languages:** JavaScript, TypeScript, Python, Common Lisp
+- **Frontend Stack:** React, Next.js
 - **Databases:** MySQL
-- **VCS:** GitHub, Bitbucket
+- **VCS:** Git
+- **CI/CD**: GitHub Actions
 - **Other:** Machine Learning, TensorFlow
 
 ### Languages
