@@ -10,9 +10,6 @@
 - **CI/CD**: GitHub Actions
 - **Other:** Machine Learning, TensorFlow
 
-### Languages
-**한국어** (Native), **English** (Fluent), **Deutsch** (Basic), **Ελληνικά** (Basic)
-
 <!--
 - **Backend Stack:** NodeJS, Express
  MongoDB
