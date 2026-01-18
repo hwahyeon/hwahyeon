@@ -1,5 +1,5 @@
 ## Hi there 🦊
-Web developer who enjoys working with `React` and `Node.js`.  
+Software developer who enjoys working with `C` and `JavaScript`.  
 Also experienced in `DevOps` and currently contributing to **open-source projects**.  
 
 I mainly focus on **web development**, but I also enjoy exploring translation, Common Lisp, and mathematics.  
